@@ -1,7 +1,7 @@
 # Trabalho Final
 Trabalho final da matéria de introdução ao html, css e javascript.
 
-Algumas das tags utilizadas e vistas em aula
+# Algumas das tags utilizadas e vistas em aula
 # Tags Semânticas
 
 "!DOCTYPE html": Informa ao navegador que este é um documento moderno do padrão HTML5.

@@ -3,24 +3,15 @@ Trabalho final da matéria de introdução ao html, css e javascript.
 
 # Algumas das tags utilizadas e vistas em aula
 ## Tags Semânticas
-
-"!DOCTYPE html": Informa ao navegador que este é um documento moderno do padrão HTML5.
-
-"html": É a tag raiz que envolve todo o conteúdo da sua página.
-
-"head": A "cabeça" do site. Aqui ficam as configurações ocultas, como o título da aba (<title>) e o link que puxa o arquivo CSS (<link rel="stylesheet"...>).
-
-"body": O "corpo" do site. Tudo o que realmente aparece visualmente na tela para o usuário fica aqui dentro.
-
-"header": O cabeçalho da página. Usamos para guardar o menu de navegação e o seu nome (logo).
-
-"nav": Define um bloco de links de navegação. É a tag ideal para criar menus.
-
-"main": Define o conteúdo principal e exclusivo daquela página específica (o miolo do site).
-
-"section": Agrupa conteúdos que têm o mesmo assunto (como a seção "Sobre Mim").
-
-"footer": O rodapé do site, usado no final da página para direitos autorais e créditos.
+* `<!DOCTYPE html>`: Declaração obrigatória que informa ao navegador que o documento utiliza o padrão moderno HTML5.
+* `<html>`: Elemento raiz que envolve todo o código e o conteúdo da página web.
+* `<head>`: Bloco que contém os metadados do site (configurações ocultas), como o conjunto de caracteres (`charset`), o título da aba (`<title>`) e o vínculo com a folha de estilos externa (`<link rel="stylesheet">`).
+* `<body>`: Contém toda a parte visual do site. Tudo o que é renderizado e fica visível para o usuário deve ser inserido aqui.
+* `<header>`: Define o cabeçalho principal da página, utilizado no projeto para abrigar a identidade visual e o menu superior.
+* `<nav>`: Delimita um bloco de links de navegação, ideal para a criação de menus estruturados.
+* `<main>`: Identifica a área de conteúdo central e principal, única em cada página.
+* `<section>`: Cria agrupamentos lógicos de conteúdos baseados em um mesmo assunto (como o bloco institucional "Sobre Mim").
+* `<footer>`: Representa o rodapé do site, reservado para notas de copyright, direitos autorais e créditos do desenvolvedor.
 
 # Conteúdo e Elementos Visuais
 ## 📝 2. Tags de Conteúdo e Elementos Visuais
